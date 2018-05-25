@@ -58,5 +58,5 @@ bot.on('message',function (message){
 
 
 
-bot.login('NDQ3MDEwODkyMzcxMTk3OTcy.DehyPg.SpYHRQFrF-ZHR9ZUAKtW0-YOE_0')
+bot.login(process.env.TOKEN)
 //bot.user.setGame("$commande")
